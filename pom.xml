@@ -15,7 +15,10 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+
+
   <build>
-    <finalName>cap</finalName>
+    <finalName>java-cap</finalName>
+
   </build>
 </project>
